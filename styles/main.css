@@ -11,8 +11,16 @@ h2 {
     color: red;
 }
 
+h3 {
+    color: salmon;
+}
+
 a {
     color: hotpink;
+}
+
+p {
+    color:red;
 }
 
 body {
