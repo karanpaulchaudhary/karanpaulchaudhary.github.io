@@ -1,1 +1,0 @@
-# karanpaulchaudhary.github.io
